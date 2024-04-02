@@ -1,0 +1,16 @@
+source: azure
+source_options:
+  - azure
+  - local
+source_options_comments: Non-supported option defaults to local
+
+azure:
+  key_vault_name: KEY_VAULT_NAME
+  client_id: SERVICE_PRINCIPAL_CLIENT_ID
+  client_secret: SERVICE_PRINCIPAL_SECRET
+  tenant_id: SERVICE_PRINCIPAL_TENANT_ID
+  env: dev
+  env_options:
+    - dev
+    - prod
+  env_comment: Allows reading from galaxy_vault_secrets.azure.yaml or galaxy_vault_secrets.azure.dev.yaml

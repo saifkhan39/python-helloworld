@@ -1,0 +1,5 @@
+source: local
+source_options:
+  - azure
+  - local
+source_options_comments: Non-supported option defaults to local
