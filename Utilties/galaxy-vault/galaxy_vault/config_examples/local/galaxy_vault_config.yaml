@@ -3,3 +3,8 @@ source_options:
   - azure
   - local
 source_options_comments: Non-supported option defaults to local
+local:
+  is_encrypted: True
+  keepass-database: C:\Users\Admin\Documents\Database.kdbx
+  keepass-database-password: password
+  keepass-title: encryption-key

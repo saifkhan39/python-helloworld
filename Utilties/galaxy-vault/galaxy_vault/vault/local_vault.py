@@ -1,6 +1,7 @@
 from galaxy_vault.vault import Vault
 from galaxy_vault.model import ApiCredentials, ApxCredentials, DatabaseCredentials, IceCredentials
 from galaxy_vault.util import file_util
+from pykeepass import PyKeePass
 import pydash
 import yaml
 
@@ -8,6 +9,7 @@ import yaml
 class LocalVault(Vault):
     def __init__(self):
         self.__init_data()
+        self.__init_encryption_key()
 
 
     def get_secret(self, path) -> str:
@@ -15,7 +17,13 @@ class LocalVault(Vault):
     
 
     def get_secret_individual_account(self, path) -> str:
-        return pydash.get(self.secrets, path)
+        if self.is_encrypted:
+            return decryptor.decrypt(
+                pydash.get(self.secrets, path),
+                self.encryption_key
+            )
+        else:
+            return pydash.get(self.secrets, path)
     
 
     def get_certificate():
@@ -75,3 +83,18 @@ class LocalVault(Vault):
         filepath = file_util.find_filepath('galaxy_vault_secrets.local.yaml', True)
         with open(filepath, 'r') as f:
             self.secrets = yaml.safe_load(f)
+
+
+    def __init_encryption_key(self):
+        config_filepath = file_util.find_filepath('galaxy_vault_config.yaml')
+        with open(config_filepath, 'r') as f:
+            config = (yaml.safe_load(f))['local']
+
+
+        self.is_encrypted = config['is_encrypted']
+
+        if self.is_encrypted:
+            keepass = PyKeePass(config['keepass-database'], password=config['keepass-database-password'])
+            entry_title = keepass.find_entries(title=config['keepass-title'], first=True)
+            self.encryption_key = entry_title.password
+
