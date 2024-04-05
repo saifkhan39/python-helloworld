@@ -17,6 +17,6 @@ class VaultFactory:
                 return LocalVault()
             
     def __get_config(self):
-        filepath = file_util.find_filepath('galaxy_vault_config.yaml')
+        filepath = file_util.find_filepath('galaxy_vault_config.yaml', True)
         with open(filepath, 'r') as f:
             return yaml.safe_load(f)

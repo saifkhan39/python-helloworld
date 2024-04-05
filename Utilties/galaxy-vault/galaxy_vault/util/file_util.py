@@ -25,5 +25,7 @@ def find_filepath(filename: str, include_home = False) -> Path:
         currentPath = path / filename
         if (currentPath.is_file()):
             return currentPath
-        
+
+    print("Error: No configuration found for Galaxy Vault. Has one been created?")
+    print("(Either in your C:\\User\\yourUsername\\Filename or application parent folder)")
 

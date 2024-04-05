@@ -21,11 +21,15 @@ class AzureVault(Vault):
 
     def get_secret_individual_account(self, path):
         '''Returns secret from galaxy_vault_secrets.azure.yaml under user path'''
-        return decryptor.decrypt(
-            pydash.get(self.individual_account_secrets, path), 
-            self.encryption_key
-        )
-        
+        value = pydash.get(self.individual_account_secrets, path)
+        if value:
+            return decryptor.decrypt(
+                value,
+                self.encryption_key
+            )
+        else:
+            print("Error: Secret not found. Please check with the GEMS IT Team to ensure the value is in the Vault")
+            return None
 
     def get_certificate(self, path):
         return self.certificate_client.get_certificate(path)
@@ -95,10 +99,14 @@ class AzureVault(Vault):
             config['client_id'], 
             config['client_secret']
         )
-        self.secret_client = SecretClient(
-            vault_url=key_vault_uri, 
-            credential=credential
-        )
+        try:
+            self.secret_client = SecretClient(
+                vault_url=key_vault_uri,
+                credential=credential
+            )
+        except Exception as e:
+            print("Error: Could not connect to the Azure Key Vault: %s", str(e))
+
         self.certificate_client = CertificateClient(
             vault_url=key_vault_uri, 
             credential=credential,
