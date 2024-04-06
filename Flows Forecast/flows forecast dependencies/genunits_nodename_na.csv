@@ -1,0 +1,794 @@
+PLANTNAME,PLANTNUMUNITS,NAMEPLATECAPACITY,NODENAME,PRIMARYFUEL,PRIMEMOVER,UNITNAME
+Abbott TP 3,2,1.4,,Water,Hydroelectric Turbine,1
+Abbott TP 3,2,1.4,,Water,Hydroelectric Turbine,2
+Air Products Port Arthur,5,37.6,,Natural Gas,Gas Turbine,GEN1
+Air Products Port Arthur,5,20.5,,Natural Gas,Steam Turbine,GEN3
+Air Products Port Arthur,5,78.2,,Natural Gas,Gas Turbine,GEN4
+Alamo 6,1,105.0,,Solar,Photovoltaic,OCIA6
+"Alexis Solar, LLC",1,10.0,,Solar,Photovoltaic,12001
+Ameresco Dallas LLC,3,1.4,,Renewable,Internal Combustion,ENG1
+Ameresco Dallas LLC,3,1.4,,Renewable,Internal Combustion,ENG2
+Ameresco Dallas LLC,3,1.4,,Renewable,Internal Combustion,ENG3
+Arlington Outlet Hydroelectric Generator,1,1.3,,Water,Hydroelectric Turbine,HY1
+Ascend Performance Materials Texas Inc.,4,6.0,,Natural Gas,Steam Turbine,GEN1
+Ascend Performance Materials Texas Inc.,4,46.1,,Natural Gas,Steam Turbine,GEN4
+Austin Gas Recovery,4,1.6,,Renewable,Internal Combustion,GEN1
+Austin Gas Recovery,4,1.6,,Renewable,Internal Combustion,GEN2
+Austin Gas Recovery,4,1.6,,Renewable,Internal Combustion,GEN3
+Azure Sky Solar,2,77.0,,Other,Energy Storage,ASKYB
+Bakke,15,0.6,,Oil,Internal Combustion,BAK1
+Bakke,15,0.6,,Oil,Internal Combustion,BAK10
+Bakke,15,0.6,,Oil,Internal Combustion,BAK11
+Bakke,15,0.6,,Oil,Internal Combustion,BAK12
+Bakke,15,0.6,,Oil,Internal Combustion,BAK13
+Bakke,15,0.6,,Oil,Internal Combustion,BAK14
+Bakke,15,0.6,,Oil,Internal Combustion,BAK15
+Bakke,15,0.6,,Oil,Internal Combustion,BAK2
+Bakke,15,0.6,,Oil,Internal Combustion,BAK3
+Bakke,15,0.6,,Oil,Internal Combustion,BAK4
+Bakke,15,0.6,,Oil,Internal Combustion,BAK5
+Bakke,15,0.6,,Oil,Internal Combustion,BAK6
+Bakke,15,0.6,,Oil,Internal Combustion,BAK7
+Bakke,15,0.6,,Oil,Internal Combustion,BAK8
+Bakke,15,0.6,,Oil,Internal Combustion,BAK9
+Bandera Electric Coop PV,1,1.5,,Solar,Photovoltaic,PV1
+Bearkat,2,196.7,,Wind,Wind Turbine,BRKAT
+Blue Cloud Wind Energy LLC,1,148.4,,Wind,Wind Turbine,WT1
+"Blue Summit II Wind, LLC",1,99.4,,Wind,Wind Turbine,BSII
+"Blue Summit Storage, LLC",1,30.0,,Other,Energy Storage,WBSS
+Blue Wing Solar Energy Generation,1,13.9,,Solar,Photovoltaic,1
+Bluebell Solar,1,30.0,,Solar,Photovoltaic,UNIT1
+Bluebell Solar II,1,115.0,,Solar,Photovoltaic,BBS2
+Bosque County Peaking,5,154.0,,Natural Gas,Combined Cycle,GT-1
+Bosque County Peaking,5,154.0,,Natural Gas,Combined Cycle,GT-2
+Bosque County Peaking,5,154.0,,Natural Gas,Combined Cycle,GT-3
+Bosque County Peaking,5,95.0,,Natural Gas,Combined Cycle,ST-4
+Bovine,1,10.0,,Solar,Photovoltaic,GEN1
+Braes Bayou Plant,8,60.5,,Natural Gas,Gas Turbine,CTG-6
+Braes Bayou Plant,8,60.5,,Natural Gas,Gas Turbine,CTG-7
+Braes Bayou Plant,8,60.5,,Natural Gas,Gas Turbine,CTG-8
+Brazoria County Solar Project (Danciger),1,200.0,,Solar,Photovoltaic,BRZ01
+Brazoria West,1,200.0,,Solar,Photovoltaic,GEN1
+Bridgeport Gas Processing Plant,17,0.8,,Natural Gas,Internal Combustion,14
+Bridgeport Gas Processing Plant,17,0.8,,Natural Gas,Internal Combustion,15
+Bridgeport Gas Processing Plant,17,0.8,,Natural Gas,Internal Combustion,16
+Bridgeport Gas Processing Plant,17,0.8,,Natural Gas,Internal Combustion,17
+Bridgeport Gas Processing Plant,17,0.8,,Natural Gas,Internal Combustion,2723
+Bridgeport Gas Processing Plant,17,0.8,,Natural Gas,Internal Combustion,654
+Bridgeport Gas Processing Plant,17,0.8,,Natural Gas,Internal Combustion,655
+Bridgeport Gas Processing Plant,17,0.8,,Natural Gas,Internal Combustion,656
+Bridgeport Gas Processing Plant,17,0.8,,Natural Gas,Internal Combustion,657
+Bridgeport Gas Processing Plant,17,0.8,,Natural Gas,Internal Combustion,658
+Bridgeport Gas Processing Plant,17,0.8,,Natural Gas,Internal Combustion,666
+Bridgeport Gas Processing Plant,17,0.8,,Natural Gas,Internal Combustion,667
+Bridgeport Gas Processing Plant,17,0.8,,Natural Gas,Internal Combustion,671
+Bronson,1,10.0,,Solar,Photovoltaic,GEN1
+CPS 1 Community Solar,1,1.0,,Solar,Photovoltaic,CPS1
+"Canadian Breaks, LLC",1,210.1,,Wind,Wind Turbine,CBRKS
+Canyon,2,3.0,,Water,Hydroelectric Turbine,1
+Canyon,2,3.0,,Water,Hydroelectric Turbine,2
+Cascade Solar (TX),1,10.0,,Solar,Photovoltaic,GEN1
+CatanSolar,1,10.0,,Solar,Photovoltaic,CS
+Caterina,1,9.9,,Other,Energy Storage,CATER
+Central Utility Plant - Texas A&M,4,34.1,,Natural Gas,Combined Cycle,GTG01
+Central Utility Plant - Texas A&M,4,11.0,,Natural Gas,Combined Cycle,STG02
+Channel Energy Center LLC,4,208.8,,Natural Gas,Combined Cycle,CTG3
+Chisum,1,10.0,,Solar,Photovoltaic,GEN1
+Citrus City,15,0.6,,Oil,Internal Combustion,CC1
+Citrus City,15,0.6,,Oil,Internal Combustion,CC10
+Citrus City,15,0.6,,Oil,Internal Combustion,CC11
+Citrus City,15,0.6,,Oil,Internal Combustion,CC12
+Citrus City,15,0.6,,Oil,Internal Combustion,CC13
+Citrus City,15,0.6,,Oil,Internal Combustion,CC14
+Citrus City,15,0.6,,Oil,Internal Combustion,CC15
+Citrus City,15,0.6,,Oil,Internal Combustion,CC2
+Citrus City,15,0.6,,Oil,Internal Combustion,CC3
+Citrus City,15,0.6,,Oil,Internal Combustion,CC4
+Citrus City,15,0.6,,Oil,Internal Combustion,CC5
+Citrus City,15,0.6,,Oil,Internal Combustion,CC6
+Citrus City,15,0.6,,Oil,Internal Combustion,CC7
+Citrus City,15,0.6,,Oil,Internal Combustion,CC8
+Citrus City,15,0.6,,Oil,Internal Combustion,CC9
+Clara,15,0.6,,Oil,Internal Combustion,CLA1
+Clara,15,0.6,,Oil,Internal Combustion,CLA10
+Clara,15,0.6,,Oil,Internal Combustion,CLA11
+Clara,15,0.6,,Oil,Internal Combustion,CLA12
+Clara,15,0.6,,Oil,Internal Combustion,CLA13
+Clara,15,0.6,,Oil,Internal Combustion,CLA14
+Clara,15,0.6,,Oil,Internal Combustion,CLA15
+Clara,15,0.6,,Oil,Internal Combustion,CLA2
+Clara,15,0.6,,Oil,Internal Combustion,CLA3
+Clara,15,0.6,,Oil,Internal Combustion,CLA4
+Clara,15,0.6,,Oil,Internal Combustion,CLA5
+Clara,15,0.6,,Oil,Internal Combustion,CLA6
+Clara,15,0.6,,Oil,Internal Combustion,CLA7
+Clara,15,0.6,,Oil,Internal Combustion,CLA8
+Clara,15,0.6,,Oil,Internal Combustion,CLA9
+Clines Corners Wind Farm LLC,1,325.0,,Wind,Wind Turbine,1
+CoServ Community Solar Station,1,2.0,,Solar,Photovoltaic,CSS1
+"Colbeck's Corner, LLC",1,200.0,,Wind,Wind Turbine,GVII
+Corazon Energy LLC,1,200.0,,Solar,Photovoltaic,KOV4A
+Corpus Refinery,2,47.0,,Natural Gas,Gas Turbine,FR6
+Covel Gardens Gas Recovery,6,1.6,,Renewable,Internal Combustion,1
+Covel Gardens Gas Recovery,6,1.6,,Renewable,Internal Combustion,2
+Covel Gardens Gas Recovery,6,1.6,,Renewable,Internal Combustion,3
+Covel Gardens Gas Recovery,6,1.6,,Renewable,Internal Combustion,4
+Covel Gardens Gas Recovery,6,1.6,,Renewable,Internal Combustion,5
+Covel Gardens Gas Recovery,6,1.6,,Renewable,Internal Combustion,6
+Cutten,15,0.6,,Oil,Internal Combustion,CUT1
+Cutten,15,0.6,,Oil,Internal Combustion,CUT10
+Cutten,15,0.6,,Oil,Internal Combustion,CUT11
+Cutten,15,0.6,,Oil,Internal Combustion,CUT12
+Cutten,15,0.6,,Oil,Internal Combustion,CUT13
+Cutten,15,0.6,,Oil,Internal Combustion,CUT14
+Cutten,15,0.6,,Oil,Internal Combustion,CUT15
+Cutten,15,0.6,,Oil,Internal Combustion,CUT2
+Cutten,15,0.6,,Oil,Internal Combustion,CUT3
+Cutten,15,0.6,,Oil,Internal Combustion,CUT4
+Cutten,15,0.6,,Oil,Internal Combustion,CUT5
+Cutten,15,0.6,,Oil,Internal Combustion,CUT6
+Cutten,15,0.6,,Oil,Internal Combustion,CUT7
+Cutten,15,0.6,,Oil,Internal Combustion,CUT8
+Cutten,15,0.6,,Oil,Internal Combustion,CUT9
+DFW Gas Recovery,6,3.0,,Renewable,Gas Turbine,GEN1
+DFW Gas Recovery,6,3.0,,Renewable,Gas Turbine,GEN2
+DFW Gas Recovery,6,1.6,,Renewable,Internal Combustion,GEN3
+DFW Gas Recovery,6,1.6,,Renewable,Internal Combustion,GEN4
+DFW Gas Recovery,6,1.6,,Renewable,Internal Combustion,GEN5
+DFW Gas Recovery,6,1.6,,Renewable,Internal Combustion,GEN6
+Denton Energy Center,12,18.8,,Natural Gas,Internal Combustion,DEC1
+Denton Energy Center,12,18.8,,Natural Gas,Internal Combustion,DEC10
+Denton Energy Center,12,18.8,,Natural Gas,Internal Combustion,DEC11
+Denton Energy Center,12,18.8,,Natural Gas,Internal Combustion,DEC12
+Denton Energy Center,12,18.8,,Natural Gas,Internal Combustion,DEC2
+Denton Energy Center,12,18.8,,Natural Gas,Internal Combustion,DEC3
+Denton Energy Center,12,18.8,,Natural Gas,Internal Combustion,DEC4
+Denton Energy Center,12,18.8,,Natural Gas,Internal Combustion,DEC5
+Denton Energy Center,12,18.8,,Natural Gas,Internal Combustion,DEC6
+Denton Energy Center,12,18.8,,Natural Gas,Internal Combustion,DEC7
+Denton Energy Center,12,18.8,,Natural Gas,Internal Combustion,DEC8
+Denton Energy Center,12,18.8,,Natural Gas,Internal Combustion,DEC9
+Duran Mesa LLC,1,105.0,,Wind,Wind Turbine,1
+E-Volve Energy Holdings LLC,1,1.6,,Solar,Photovoltaic,SEALY
+E. Porte Ct.,15,0.6,,Oil,Internal Combustion,EPC1
+E. Porte Ct.,15,0.6,,Oil,Internal Combustion,EPC10
+E. Porte Ct.,15,0.6,,Oil,Internal Combustion,EPC11
+E. Porte Ct.,15,0.6,,Oil,Internal Combustion,EPC12
+E. Porte Ct.,15,0.6,,Oil,Internal Combustion,EPC13
+E. Porte Ct.,15,0.6,,Oil,Internal Combustion,EPC14
+E. Porte Ct.,15,0.6,,Oil,Internal Combustion,EPC15
+E. Porte Ct.,15,0.6,,Oil,Internal Combustion,EPC2
+E. Porte Ct.,15,0.6,,Oil,Internal Combustion,EPC3
+E. Porte Ct.,15,0.6,,Oil,Internal Combustion,EPC4
+E. Porte Ct.,15,0.6,,Oil,Internal Combustion,EPC5
+E. Porte Ct.,15,0.6,,Oil,Internal Combustion,EPC6
+E. Porte Ct.,15,0.6,,Oil,Internal Combustion,EPC7
+E. Porte Ct.,15,0.6,,Oil,Internal Combustion,EPC8
+E. Porte Ct.,15,0.6,,Oil,Internal Combustion,EPC9
+EG178 Facility,3,60.5,,Natural Gas,Combined Cycle,CT02
+EG178 Facility,3,60.5,,Natural Gas,Combined Cycle,CTG1
+EG178 Facility,3,32.9,,Natural Gas,Combined Cycle,STG
+ETT Presidio NaS Battery,1,4.0,,Other,Energy Storage,BOB
+Eagle Pass,3,3.2,,Water,Hydroelectric Turbine,1
+Eagle Pass,3,3.2,,Water,Hydroelectric Turbine,2
+Eagle Pass,3,3.2,,Water,Hydroelectric Turbine,3
+Eddy II,1,10.0,,Solar,Photovoltaic,GEN1
+"El Algodon Alto Wind Farm, LLC",1,200.2,,Wind,Wind Turbine,EEA
+Elk Station,3,199.8,,Natural Gas,Gas Turbine,ELK3
+Elm Branch Solar 1,1,134.7,,Solar,Photovoltaic,TXEB1
+Enterprise Products Operating,8,3.4,,Natural Gas,Gas Turbine,GEN3
+Enterprise Products Operating,8,3.4,,Natural Gas,Gas Turbine,GEN4
+Enterprise Products Operating,8,3.4,,Natural Gas,Gas Turbine,GEN5
+Enterprise Products Operating,8,3.5,,Natural Gas,Gas Turbine,GEN6
+Enterprise Products Operating,8,3.5,,Natural Gas,Gas Turbine,GEN7
+Enterprise Products Operating,8,3.5,,Natural Gas,Gas Turbine,GEN8
+ExxonMobil Baytown Refinery,11,7.5,,Natural Gas,Steam Turbine,ST34
+FELPS 1 - Calaveras,1,1.0,,Solar,Photovoltaic,FLPS1
+FELPS 2 - Calaveras,1,1.0,,Solar,Photovoltaic,FLPS2
+FELPS 3 - Floresville South,1,1.0,,Solar,Photovoltaic,FLPS3
+FELPS 4 - Floresville South,1,1.0,,Solar,Photovoltaic,FLPS4
+FELPS 5- Floresville South,1,1.0,,Solar,Photovoltaic,FLPS5
+FELPS 6- Floresville West,1,1.0,,Solar,Photovoltaic,FLPS6
+FELPS 7- Floresville West,1,1.0,,Solar,Photovoltaic,FLPS7
+Farmers Branch Renewable Energy Facility,2,1.6,,Renewable,Internal Combustion,GEN1
+Farmers Branch Renewable Energy Facility,2,1.6,,Renewable,Internal Combustion,GEN2
+Flower Valley I,1,9.9,,Other,Energy Storage,FLRV1
+Fort Bliss (DEA EPIC),1,2.0,,Solar,Photovoltaic,DEPIC
+Frankel,15,0.6,,Oil,Internal Combustion,FRA1
+Frankel,15,0.6,,Oil,Internal Combustion,FRA10
+Frankel,15,0.6,,Oil,Internal Combustion,FRA11
+Frankel,15,0.6,,Oil,Internal Combustion,FRA12
+Frankel,15,0.6,,Oil,Internal Combustion,FRA13
+Frankel,15,0.6,,Oil,Internal Combustion,FRA14
+Frankel,15,0.6,,Oil,Internal Combustion,FRA15
+Frankel,15,0.6,,Oil,Internal Combustion,FRA2
+Frankel,15,0.6,,Oil,Internal Combustion,FRA3
+Frankel,15,0.6,,Oil,Internal Combustion,FRA4
+Frankel,15,0.6,,Oil,Internal Combustion,FRA5
+Frankel,15,0.6,,Oil,Internal Combustion,FRA6
+Frankel,15,0.6,,Oil,Internal Combustion,FRA7
+Frankel,15,0.6,,Oil,Internal Combustion,FRA8
+Frankel,15,0.6,,Oil,Internal Combustion,FRA9
+Freeport LP Pretreatment Facility,1,87.0,,Natural Gas,Gas Turbine,65GTG
+G.S.E. One LLC,1,83.0,,Solar,Photovoltaic,1
+GCWA,12,0.6,,Oil,Internal Combustion,IPS1
+GCWA,12,0.6,,Oil,Internal Combustion,IPS2
+GCWA,12,0.6,,Oil,Internal Combustion,IPS3
+GCWA,12,0.6,,Oil,Internal Combustion,IPS4
+GCWA,12,0.6,,Oil,Internal Combustion,IPS5
+GCWA,12,0.6,,Oil,Internal Combustion,IPS6
+GCWA,12,0.6,,Oil,Internal Combustion,IPS7
+GCWA,12,0.6,,Oil,Internal Combustion,IPS8
+GCWA,12,0.6,,Oil,Internal Combustion,MUN1
+GCWA,12,0.6,,Oil,Internal Combustion,MUN2
+GCWA,12,0.6,,Oil,Internal Combustion,MUN3
+GCWA,12,0.6,,Oil,Internal Combustion,MUN4
+Goldsmith,15,0.6,,Oil,Internal Combustion,GS1
+Goldsmith,15,0.6,,Oil,Internal Combustion,GS10
+Goldsmith,15,0.6,,Oil,Internal Combustion,GS11
+Goldsmith,15,0.6,,Oil,Internal Combustion,GS12
+Goldsmith,15,0.6,,Oil,Internal Combustion,GS13
+Goldsmith,15,0.6,,Oil,Internal Combustion,GS14
+Goldsmith,15,0.6,,Oil,Internal Combustion,GS15
+Goldsmith,15,0.6,,Oil,Internal Combustion,GS2
+Goldsmith,15,0.6,,Oil,Internal Combustion,GS3
+Goldsmith,15,0.6,,Oil,Internal Combustion,GS4
+Goldsmith,15,0.6,,Oil,Internal Combustion,GS5
+Goldsmith,15,0.6,,Oil,Internal Combustion,GS6
+Goldsmith,15,0.6,,Oil,Internal Combustion,GS7
+Goldsmith,15,0.6,,Oil,Internal Combustion,GS8
+Goldsmith,15,0.6,,Oil,Internal Combustion,GS9
+Gopher Creek Wind Farm,1,158.0,,Wind,Wind Turbine,GCWF
+Griffin Solar,1,5.0,,Solar,Photovoltaic,1080
+H 4,1,2.4,,Water,Hydroelectric Turbine,1
+HEB00020,3,0.4,,Natural Gas,Internal Combustion,H0201
+HEB00020,3,0.4,,Natural Gas,Internal Combustion,H0202
+HEB00020,3,0.4,,Natural Gas,Internal Combustion,H0203
+HEB00028,3,0.4,,Natural Gas,Internal Combustion,H0281
+HEB00028,3,0.4,,Natural Gas,Internal Combustion,H0282
+HEB00028,3,0.4,,Natural Gas,Internal Combustion,H0283
+HEB00038,3,0.4,,Natural Gas,Internal Combustion,H0381
+HEB00038,3,0.4,,Natural Gas,Internal Combustion,H0382
+HEB00038,3,0.4,,Natural Gas,Internal Combustion,H0383
+HEB00054,3,0.4,,Natural Gas,Internal Combustion,H0541
+HEB00054,3,0.4,,Natural Gas,Internal Combustion,H0542
+HEB00054,3,0.4,,Natural Gas,Internal Combustion,H0543
+HEB00057,3,0.4,,Natural Gas,Internal Combustion,H0571
+HEB00057,3,0.4,,Natural Gas,Internal Combustion,H0572
+HEB00057,3,0.4,,Natural Gas,Internal Combustion,H0573
+HEB00070,3,0.4,,Natural Gas,Internal Combustion,H0701
+HEB00070,3,0.4,,Natural Gas,Internal Combustion,H0702
+HEB00070,3,0.4,,Natural Gas,Internal Combustion,H0703
+HEB00099,3,0.4,,Natural Gas,Internal Combustion,H0991
+HEB00099,3,0.4,,Natural Gas,Internal Combustion,H0992
+HEB00099,3,0.4,,Natural Gas,Internal Combustion,H0993
+HEB00109,3,0.4,,Natural Gas,Internal Combustion,H1091
+HEB00109,3,0.4,,Natural Gas,Internal Combustion,H1092
+HEB00109,3,0.4,,Natural Gas,Internal Combustion,H1093
+HEB00110,3,0.4,,Natural Gas,Internal Combustion,H1101
+HEB00110,3,0.4,,Natural Gas,Internal Combustion,H1102
+HEB00110,3,0.4,,Natural Gas,Internal Combustion,H1103
+HEB00182,3,0.4,,Natural Gas,Internal Combustion,H1821
+HEB00182,3,0.4,,Natural Gas,Internal Combustion,H1822
+HEB00182,3,0.4,,Natural Gas,Internal Combustion,H1823
+HEB00292,3,0.4,,Natural Gas,Internal Combustion,H2921
+HEB00292,3,0.4,,Natural Gas,Internal Combustion,H2922
+HEB00292,3,0.4,,Natural Gas,Internal Combustion,H2923
+Hal C Weaver Power Plant,10,34.4,,Natural Gas,Combined Cycle,GEN10
+Hal C Weaver Power Plant,10,48.5,,Natural Gas,Combined Cycle,GEN8
+Hal C Weaver Power Plant,10,27.2,,Natural Gas,Combined Cycle,GEN9
+Heart of Texas Wind Project,1,180.0,,Wind,Wind Turbine,HTX
+Heights,1,9.9,,Other,Energy Storage,H8S
+Helena Wind,1,250.0,,Wind,Wind Turbine,HEL
+Highway 56 Solar,1,5.3,,Solar,Photovoltaic,GEN1
+Hoef's Road Storage,1,2.0,,Other,Energy Storage,HOEFS
+Houston Plant,2,6.0,,Natural Gas,Steam Turbine,GEN1
+Houston Plant,2,1.5,,Natural Gas,Steam Turbine,GEN2
+Hubbard Wind,1,300.0,,Wind,Wind Turbine,HW001
+IKEA Grand Prairie Rooftop PV System,1,1.2,,Solar,Photovoltaic,PV1
+IKEA Live Oak Rooftop PV System,1,1.7,,Solar,Photovoltaic,570
+IKEA Round Rock 027,1,1.4,,Solar,Photovoltaic,PV
+Inadale Wind Farm LLC Hybrid,2,9.9,,Other,Energy Storage,INABT
+Ivory Solar (AKA Lamesa II),1,50.0,,Solar,Photovoltaic,IVORY
+Jameson Gas Processing Plant,5,0.4,,Natural Gas,Internal Combustion,620
+Jameson Gas Processing Plant,5,0.4,,Natural Gas,Internal Combustion,621
+Jameson Gas Processing Plant,5,0.5,,Natural Gas,Internal Combustion,622
+Jameson Gas Processing Plant,5,0.5,,Natural Gas,Internal Combustion,GN410
+Kingsberry Energy Storage System,1,1.5,,Other,Energy Storage,KBESS
+Lampwick,1,7.5,,Solar,Photovoltaic,GEN1
+Leon Solar,1,10.0,,Solar,Photovoltaic,GEN1
+Lewisville,1,2.8,,Water,Hydroelectric Turbine,1
+Lockett Windfarm,1,183.8,,Wind,Wind Turbine,LOC
+Lonestar,1,9.9,,Other,Energy Storage,LNSTR
+"Longbow Solar, LLC",1,78.1,,Solar,Photovoltaic,LBSOL
+Mark One Power Station,3,60.5,,Natural Gas,Gas Turbine,CTG-1
+Mark One Power Station,3,60.5,,Natural Gas,Gas Turbine,CTG-2
+Mark One Power Station,3,60.5,,Natural Gas,Gas Turbine,CTG-3
+Marlin Solar,1,5.3,,Solar,Photovoltaic,GEN1
+Mars Solar,1,10.0,,Solar,Photovoltaic,20
+Maryneal Windpower,1,182.4,,Wind,Wind Turbine,MNW
+Mckeever,15,0.6,,Oil,Internal Combustion,MK1
+Mckeever,15,0.6,,Oil,Internal Combustion,MK10
+Mckeever,15,0.6,,Oil,Internal Combustion,MK11
+Mckeever,15,0.6,,Oil,Internal Combustion,MK12
+Mckeever,15,0.6,,Oil,Internal Combustion,MK13
+Mckeever,15,0.6,,Oil,Internal Combustion,MK14
+Mckeever,15,0.6,,Oil,Internal Combustion,MK15
+Mckeever,15,0.6,,Oil,Internal Combustion,MK2
+Mckeever,15,0.6,,Oil,Internal Combustion,MK3
+Mckeever,15,0.6,,Oil,Internal Combustion,MK4
+Mckeever,15,0.6,,Oil,Internal Combustion,MK5
+Mckeever,15,0.6,,Oil,Internal Combustion,MK6
+Mckeever,15,0.6,,Oil,Internal Combustion,MK7
+Mckeever,15,0.6,,Oil,Internal Combustion,MK8
+Mckeever,15,0.6,,Oil,Internal Combustion,MK9
+Mesquite Creek LFGTE Project,2,1.6,,Renewable,Internal Combustion,GEN1
+Mesquite Creek LFGTE Project,2,1.6,,Renewable,Internal Combustion,GEN2
+Mesquite Star,1,418.9,,Wind,Wind Turbine,MESQ
+Mont Belvieu Cogeneration Unit,1,15.0,,Natural Gas,Gas Turbine,GT01
+Montana Power Station,4,131.8,,Natural Gas,Gas Turbine,GT-1
+Montana Power Station,4,131.8,,Natural Gas,Gas Turbine,GT-2
+Montana Power Station,4,131.8,,Natural Gas,Gas Turbine,GT-3
+Montana Power Station,4,131.8,,Natural Gas,Gas Turbine,GT-4
+N. Mary Francis,15,0.6,,Oil,Internal Combustion,NMF1
+N. Mary Francis,15,0.6,,Oil,Internal Combustion,NMF10
+N. Mary Francis,15,0.6,,Oil,Internal Combustion,NMF11
+N. Mary Francis,15,0.6,,Oil,Internal Combustion,NMF12
+N. Mary Francis,15,0.6,,Oil,Internal Combustion,NMF13
+N. Mary Francis,15,0.6,,Oil,Internal Combustion,NMF14
+N. Mary Francis,15,0.6,,Oil,Internal Combustion,NMF15
+N. Mary Francis,15,0.6,,Oil,Internal Combustion,NMF2
+N. Mary Francis,15,0.6,,Oil,Internal Combustion,NMF3
+N. Mary Francis,15,0.6,,Oil,Internal Combustion,NMF4
+N. Mary Francis,15,0.6,,Oil,Internal Combustion,NMF5
+N. Mary Francis,15,0.6,,Oil,Internal Combustion,NMF6
+N. Mary Francis,15,0.6,,Oil,Internal Combustion,NMF7
+N. Mary Francis,15,0.6,,Oil,Internal Combustion,NMF8
+N. Mary Francis,15,0.6,,Oil,Internal Combustion,NMF9
+NASA Johnson Space Center CHP,2,5.6,,Natural Gas,Gas Turbine,CTG-1
+NASA Johnson Space Center CHP,2,5.6,,Natural Gas,Gas Turbine,CTG-2
+Nebula Solar,1,135.0,,Solar,Photovoltaic,NEB1
+Nelson Gardens Landfill Gas to Energy,4,1.1,,Renewable,Internal Combustion,UNIT1
+Nelson Gardens Landfill Gas to Energy,4,1.1,,Renewable,Internal Combustion,UNIT2
+Nelson Gardens Landfill Gas to Energy,4,1.1,,Renewable,Internal Combustion,UNIT3
+Nelson Gardens Landfill Gas to Energy,4,1.1,,Renewable,Internal Combustion,UNIT4
+Niagara Bottling - Seguin,1,4.9,,Solar,Photovoltaic,NIAGS
+Noble Solar,2,275.0,,Solar,Photovoltaic,NBSLR
+Noble Solar,2,125.0,,Other,Energy Storage,NBSTG
+Nolte,2,1.2,,Water,Hydroelectric Turbine,1
+Nolte,2,1.2,,Water,Hydroelectric Turbine,2
+North Gainesville Solar,1,5.2,,Solar,Photovoltaic,GEN1
+"OCI Alamo 2, LLC",1,4.4,,Solar,Photovoltaic,1
+OCI Alamo 3 LLC,1,5.5,,Solar,Photovoltaic,OCIA3
+Old Settler Wind,1,151.2,,Wind,Wind Turbine,OSWF
+Oxy Renewable Energy - Goldsmith,1,16.8,,Solar,Photovoltaic,SOLAR
+Pearl Solar,1,50.0,,Solar,Photovoltaic,PEARL
+Phantom Solar,1,15.4,,Solar,Photovoltaic,GEN1
+Power Island,3,41.0,,Natural Gas,Gas Turbine,GEN1
+Power Island,3,50.0,,Natural Gas,Gas Turbine,GEN2
+Power Island,3,50.0,,Natural Gas,Gas Turbine,GEN3
+PowerFin Kingsbery,1,2.6,,Solar,Photovoltaic,PFPKB
+Priddy Wind Project,1,302.4,,Wind,Wind Turbine,WTG1
+Pyron Wind Farm LLC Hybrid,2,9.9,,Other,Energy Storage,PYRBT
+RE Maplewood,5,28.0,,Solar,Photovoltaic,PV2
+Rentech Nitrogen Pasadena Cogeneration,1,15.4,,Natural Gas,Steam Turbine,MG202
+Ridge Rd,15,0.6,,Oil,Internal Combustion,RR1
+Ridge Rd,15,0.6,,Oil,Internal Combustion,RR10
+Ridge Rd,15,0.6,,Oil,Internal Combustion,RR11
+Ridge Rd,15,0.6,,Oil,Internal Combustion,RR12
+Ridge Rd,15,0.6,,Oil,Internal Combustion,RR13
+Ridge Rd,15,0.6,,Oil,Internal Combustion,RR14
+Ridge Rd,15,0.6,,Oil,Internal Combustion,RR15
+Ridge Rd,15,0.6,,Oil,Internal Combustion,RR2
+Ridge Rd,15,0.6,,Oil,Internal Combustion,RR3
+Ridge Rd,15,0.6,,Oil,Internal Combustion,RR4
+Ridge Rd,15,0.6,,Oil,Internal Combustion,RR5
+Ridge Rd,15,0.6,,Oil,Internal Combustion,RR6
+Ridge Rd,15,0.6,,Oil,Internal Combustion,RR7
+Ridge Rd,15,0.6,,Oil,Internal Combustion,RR8
+Ridge Rd,15,0.6,,Oil,Internal Combustion,RR9
+Rio Grande Valley Sugar Growers,5,2.5,,Renewable,Steam Turbine,GENA
+Rio Grande Valley Sugar Growers,5,2.5,,Renewable,Steam Turbine,GENB
+Rio Grande Valley Sugar Growers,5,2.5,,Renewable,Steam Turbine,GENC
+Rio Grande Valley Sugar Growers,5,16.0,,Renewable,Steam Turbine,GEND
+Rio Grande Valley Sugar Growers,5,1.4,,Oil,Internal Combustion,GENE
+Robert Mueller Energy Center,2,4.6,,Natural Gas,Gas Turbine,CT1
+Sage Draw Wind,1,338.4,,Wind,Wind Turbine,SD
+"Salt Fork Wind Project, LLC",1,174.0,,Wind,Wind Turbine,GEN1
+Sam Rayburn,9,1.6,,Oil,Internal Combustion,4
+Sam Rayburn,9,1.6,,Oil,Internal Combustion,5
+Santa Rita East,1,302.4,,Wind,Wind Turbine,STRAE
+Santa Rosa,15,0.6,,Oil,Internal Combustion,SR1
+Santa Rosa,15,0.6,,Oil,Internal Combustion,SR10
+Santa Rosa,15,0.6,,Oil,Internal Combustion,SR11
+Santa Rosa,15,0.6,,Oil,Internal Combustion,SR12
+Santa Rosa,15,0.6,,Oil,Internal Combustion,SR13
+Santa Rosa,15,0.6,,Oil,Internal Combustion,SR14
+Santa Rosa,15,0.6,,Oil,Internal Combustion,SR15
+Santa Rosa,15,0.6,,Oil,Internal Combustion,SR2
+Santa Rosa,15,0.6,,Oil,Internal Combustion,SR3
+Santa Rosa,15,0.6,,Oil,Internal Combustion,SR4
+Santa Rosa,15,0.6,,Oil,Internal Combustion,SR5
+Santa Rosa,15,0.6,,Oil,Internal Combustion,SR6
+Santa Rosa,15,0.6,,Oil,Internal Combustion,SR7
+Santa Rosa,15,0.6,,Oil,Internal Combustion,SR8
+Santa Rosa,15,0.6,,Oil,Internal Combustion,SR9
+Seadrift Coke LP,1,7.6,,Oil,Steam Turbine,GEN1
+Sherbino II,1,132.0,,Wind,Wind Turbine,1
+Signal Hill Generating LLC,4,20.0,,Natural Gas,Combined Cycle,GTA
+Signal Hill Generating LLC,4,20.0,,Natural Gas,Combined Cycle,GTB
+Southwick,15,0.6,,Oil,Internal Combustion,SW1
+Southwick,15,0.6,,Oil,Internal Combustion,SW10
+Southwick,15,0.6,,Oil,Internal Combustion,SW11
+Southwick,15,0.6,,Oil,Internal Combustion,SW12
+Southwick,15,0.6,,Oil,Internal Combustion,SW13
+Southwick,15,0.6,,Oil,Internal Combustion,SW14
+Southwick,15,0.6,,Oil,Internal Combustion,SW15
+Southwick,15,0.6,,Oil,Internal Combustion,SW2
+Southwick,15,0.6,,Oil,Internal Combustion,SW3
+Southwick,15,0.6,,Oil,Internal Combustion,SW4
+Southwick,15,0.6,,Oil,Internal Combustion,SW5
+Southwick,15,0.6,,Oil,Internal Combustion,SW6
+Southwick,15,0.6,,Oil,Internal Combustion,SW7
+Southwick,15,0.6,,Oil,Internal Combustion,SW8
+Southwick,15,0.6,,Oil,Internal Combustion,SW9
+Spinning Spur Wind III,1,194.0,,Wind,Wind Turbine,GEN1
+Stephens Ranch Wind Energy LLC,2,165.0,,Wind,Wind Turbine,2
+Sterling Solar (TX),1,10.0,,Solar,Photovoltaic,GEN1
+Stonegate,15,0.6,,Oil,Internal Combustion,STG1
+Stonegate,15,0.6,,Oil,Internal Combustion,STG10
+Stonegate,15,0.6,,Oil,Internal Combustion,STG11
+Stonegate,15,0.6,,Oil,Internal Combustion,STG12
+Stonegate,15,0.6,,Oil,Internal Combustion,STG13
+Stonegate,15,0.6,,Oil,Internal Combustion,STG14
+Stonegate,15,0.6,,Oil,Internal Combustion,STG15
+Stonegate,15,0.6,,Oil,Internal Combustion,STG2
+Stonegate,15,0.6,,Oil,Internal Combustion,STG3
+Stonegate,15,0.6,,Oil,Internal Combustion,STG4
+Stonegate,15,0.6,,Oil,Internal Combustion,STG5
+Stonegate,15,0.6,,Oil,Internal Combustion,STG6
+Stonegate,15,0.6,,Oil,Internal Combustion,STG7
+Stonegate,15,0.6,,Oil,Internal Combustion,STG8
+Stonegate,15,0.6,,Oil,Internal Combustion,STG9
+Stryker Creek,7,2.0,,Oil,Internal Combustion,D1
+Stryker Creek,7,2.0,,Oil,Internal Combustion,D2
+Stryker Creek,7,2.0,,Oil,Internal Combustion,D3
+Stryker Creek,7,2.0,,Oil,Internal Combustion,D4
+Stryker Creek,7,2.0,,Oil,Internal Combustion,D5
+SunE CPS1 LLC,1,10.0,,Solar,Photovoltaic,1
+SunE CPS2 LLC,1,10.0,,Solar,Photovoltaic,1
+SunE CPS3 LLC,2,5.6,,Solar,Photovoltaic,1
+SunE CPS3 LLC,2,5.0,,Solar,Photovoltaic,2
+TP 4,1,2.4,,Water,Hydroelectric Turbine,1
+"TPE Erath Solar, LLC",1,9.9,,Solar,Photovoltaic,ERATH
+"TPE Whitney Solar, LLC",1,9.9,,Solar,Photovoltaic,TXWHT
+TX Hereford Wind,1,200.0,,Wind,Wind Turbine,GEN1
+TX11 Republic Road Storage,1,50.0,,Other,Energy Storage,TX11
+TX12 Silicon Hill Storage,1,100.0,,Other,Energy Storage,TX12
+Texas City Plant Union Carbide,2,45.0,,Other,Steam Turbine,STG
+"The Methodist Hospital, Gas Turbine",1,5.0,,Natural Gas,Gas Turbine,GT-1
+Ticona Polymers Inc,5,44.2,,Natural Gas,Gas Turbine,GEN5
+Toyah Power Station,1,10.4,,Other,Energy Storage,TOYAH
+Toyota HQ Plan,1,7.7,,Solar,Photovoltaic,TOYHQ
+Triple Butte I,1,7.5,,Other,Energy Storage,TRBT1
+Tumbleweed,15,0.6,,Oil,Internal Combustion,TWD1
+Tumbleweed,15,0.6,,Oil,Internal Combustion,TWD10
+Tumbleweed,15,0.6,,Oil,Internal Combustion,TWD11
+Tumbleweed,15,0.6,,Oil,Internal Combustion,TWD12
+Tumbleweed,15,0.6,,Oil,Internal Combustion,TWD13
+Tumbleweed,15,0.6,,Oil,Internal Combustion,TWD14
+Tumbleweed,15,0.6,,Oil,Internal Combustion,TWD15
+Tumbleweed,15,0.6,,Oil,Internal Combustion,TWD2
+Tumbleweed,15,0.6,,Oil,Internal Combustion,TWD3
+Tumbleweed,15,0.6,,Oil,Internal Combustion,TWD4
+Tumbleweed,15,0.6,,Oil,Internal Combustion,TWD5
+Tumbleweed,15,0.6,,Oil,Internal Combustion,TWD6
+Tumbleweed,15,0.6,,Oil,Internal Combustion,TWD7
+Tumbleweed,15,0.6,,Oil,Internal Combustion,TWD8
+Tumbleweed,15,0.6,,Oil,Internal Combustion,TWD9
+Valero Refinery Corpus Christi West,4,12.0,,Natural Gas,Steam Turbine,PRU
+Valero Refinery Corpus Christi West,4,28.6,,Oil,Steam Turbine,TG1
+Valero Refinery Corpus Christi West,4,28.6,,Oil,Steam Turbine,TG2
+Vaquero,15,0.6,,Oil,Internal Combustion,VQ1
+Vaquero,15,0.6,,Oil,Internal Combustion,VQ10
+Vaquero,15,0.6,,Oil,Internal Combustion,VQ11
+Vaquero,15,0.6,,Oil,Internal Combustion,VQ12
+Vaquero,15,0.6,,Oil,Internal Combustion,VQ13
+Vaquero,15,0.6,,Oil,Internal Combustion,VQ14
+Vaquero,15,0.6,,Oil,Internal Combustion,VQ15
+Vaquero,15,0.6,,Oil,Internal Combustion,VQ2
+Vaquero,15,0.6,,Oil,Internal Combustion,VQ3
+Vaquero,15,0.6,,Oil,Internal Combustion,VQ4
+Vaquero,15,0.6,,Oil,Internal Combustion,VQ5
+Vaquero,15,0.6,,Oil,Internal Combustion,VQ6
+Vaquero,15,0.6,,Oil,Internal Combustion,VQ7
+Vaquero,15,0.6,,Oil,Internal Combustion,VQ8
+Vaquero,15,0.6,,Oil,Internal Combustion,VQ9
+Verizon Hidden Ridge Solar Project,3,1.0,,Solar,Photovoltaic,VH600
+Verizon Hidden Ridge Solar Project,3,1.1,,Solar,Photovoltaic,VH700
+Verizon Hidden Ridge Solar Project,3,0.8,,Solar,Photovoltaic,VH750
+Villa Cavasos,15,0.6,,Oil,Internal Combustion,VC1
+Villa Cavasos,15,0.6,,Oil,Internal Combustion,VC10
+Villa Cavasos,15,0.6,,Oil,Internal Combustion,VC11
+Villa Cavasos,15,0.6,,Oil,Internal Combustion,VC12
+Villa Cavasos,15,0.6,,Oil,Internal Combustion,VC13
+Villa Cavasos,15,0.6,,Oil,Internal Combustion,VC14
+Villa Cavasos,15,0.6,,Oil,Internal Combustion,VC15
+Villa Cavasos,15,0.6,,Oil,Internal Combustion,VC2
+Villa Cavasos,15,0.6,,Oil,Internal Combustion,VC3
+Villa Cavasos,15,0.6,,Oil,Internal Combustion,VC4
+Villa Cavasos,15,0.6,,Oil,Internal Combustion,VC5
+Villa Cavasos,15,0.6,,Oil,Internal Combustion,VC6
+Villa Cavasos,15,0.6,,Oil,Internal Combustion,VC7
+Villa Cavasos,15,0.6,,Oil,Internal Combustion,VC8
+Villa Cavasos,15,0.6,,Oil,Internal Combustion,VC9
+Village Creek Water Reclamation Facility,5,5.3,,Natural Gas,Gas Turbine,TG1
+Village Creek Water Reclamation Facility,5,5.3,,Natural Gas,Gas Turbine,TG2
+WAL1040,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL1040,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL1040,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL1062,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL1062,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL1062,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL1103,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL1103,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL1103,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL1232,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL1232,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL1232,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL1272,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL1272,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL1272,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL1455,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL1455,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL1455,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL194,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL194,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL194,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL202,1,1.3,,Oil,Internal Combustion,GEN1
+WAL2257,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL2257,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL2257,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL2439,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL2439,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL2439,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL266,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL266,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL266,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL2667,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL2667,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL2667,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL2724,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL2724,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL2724,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL284,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL284,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL284,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL2883,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL2883,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL2883,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL2980,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL2980,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL2980,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL2993,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL2993,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL2993,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3224,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3224,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3224,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3226,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3226,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3226,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3284,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3284,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3284,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3285,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3285,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3285,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3297,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3297,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3297,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3298,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3298,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3298,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3302,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3302,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3302,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3320,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3320,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3320,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3390,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3390,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3390,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3406,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3406,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3406,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3425,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3425,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3425,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3432,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3432,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3432,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3500,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3500,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3500,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3510,1,1.3,,Natural Gas,Internal Combustion,GEN1
+WAL3518,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3518,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3518,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3572,1,1.3,,Natural Gas,Internal Combustion,GEN1
+WAL3584,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3584,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3584,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3631,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3631,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3631,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3773,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3773,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3773,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3777,1,1.3,,Oil,Internal Combustion,GEN1
+WAL3827,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3827,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3827,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL3886,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL3886,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL3886,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL407,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL407,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL407,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL414,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL414,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL414,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL4298,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL4298,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL4298,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL447,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL447,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL447,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL4509,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL4509,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL4509,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL4512,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL4512,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL4512,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL452,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL452,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL452,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL4526,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL4526,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL4526,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL4538,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL4538,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL4538,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL456,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL456,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL456,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL461,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL461,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL461,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL462,1,1.3,,Natural Gas,Internal Combustion,GEN1
+WAL504,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL504,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL504,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL5045,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL5045,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL5045,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL5080,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL5080,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL5080,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL5091,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL5091,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL5091,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL5116,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL5116,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL5116,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL5165,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL5165,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL5165,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL5211,1,1.3,,Oil,Internal Combustion,GEN1
+WAL522,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL522,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL522,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL5287,3,0.4,,Natural Gas,Internal Combustion,GE N3
+WAL5287,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL5287,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL529,1,1.3,,Natural Gas,Internal Combustion,GEN1
+WAL5311,1,1.3,,Oil,Internal Combustion,GEN1
+WAL5312,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL5312,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL5312,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL5316,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL5316,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL5316,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL536,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL536,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL536,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL537,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL537,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL537,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL5388,1,1.3,,Natural Gas,Internal Combustion,GEN1
+WAL546,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL546,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL546,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL5479,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL5479,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL5479,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL5480,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL5480,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL5480,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL5612,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL5612,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL5612,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL565,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL565,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL565,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL5713,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL5713,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL5713,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL5764,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL5764,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL5764,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL602,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL602,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL602,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL6929,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL6929,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL6929,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL744,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL744,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL744,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL752,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL752,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL752,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL768,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL768,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL768,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL772,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL772,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL772,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL791,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL791,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL791,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL849,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL849,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL849,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL872,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL872,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL872,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL896,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL896,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL896,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL897,1,1.3,,Natural Gas,Internal Combustion,GEN1
+WAL940,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL940,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL940,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL947,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL947,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL947,3,0.4,,Natural Gas,Internal Combustion,GEN3
+WAL972,3,0.4,,Natural Gas,Internal Combustion,GEN1
+WAL972,3,0.4,,Natural Gas,Internal Combustion,GEN2
+WAL972,3,0.4,,Natural Gas,Internal Combustion,GEN3
+Walnut Springs Solar,1,5.0,,Solar,Photovoltaic,GEN1
+West Moore Solar II,1,5.0,,Solar,Photovoltaic,GEN1
+Westhollow Technology Center,1,3.7,,Natural Gas,Gas Turbine,1
+Westover,15,0.6,,Oil,Internal Combustion,WSI1
+Westover,15,0.6,,Oil,Internal Combustion,WSI10
+Westover,15,0.6,,Oil,Internal Combustion,WSI11
+Westover,15,0.6,,Oil,Internal Combustion,WSI12
+Westover,15,0.6,,Oil,Internal Combustion,WSI13
+Westover,15,0.6,,Oil,Internal Combustion,WSI14
+Westover,15,0.6,,Oil,Internal Combustion,WSI15
+Westover,15,0.6,,Oil,Internal Combustion,WSI2
+Westover,15,0.6,,Oil,Internal Combustion,WSI3
+Westover,15,0.6,,Oil,Internal Combustion,WSI4
+Westover,15,0.6,,Oil,Internal Combustion,WSI5
+Westover,15,0.6,,Oil,Internal Combustion,WSI6
+Westover,15,0.6,,Oil,Internal Combustion,WSI7
+Westover,15,0.6,,Oil,Internal Combustion,WSI8
+Westover,15,0.6,,Oil,Internal Combustion,WSI9
+Westside Landfill Gas Recovery,3,1.6,,Renewable,Internal Combustion,GEN1
+Westside Landfill Gas Recovery,3,1.6,,Renewable,Internal Combustion,GEN2
+Whitesboro Solar,1,5.0,,Solar,Photovoltaic,GEN1
+Whitesboro Solar II,1,5.0,,Solar,Photovoltaic,GEN1
+Whitewright Solar,1,10.0,,Solar,Photovoltaic,GEN1
+Yellow Jacket,1,5.0,,Solar,Photovoltaic,GEN1
