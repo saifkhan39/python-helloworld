@@ -1,0 +1,2 @@
+Datetime,Notice,Type,Priority,Classification
+2022-10-06 01:55:01,"CM-CONSCK-FAIL Consistency Check for Resource Status failed for Resource:BATCAVE_BES1, Operating Date: 10/6/2022 , Operating Hour: 3, Cop Status: ONREG, Telemetered Status: ON",COP Warning,Medium,Certified
