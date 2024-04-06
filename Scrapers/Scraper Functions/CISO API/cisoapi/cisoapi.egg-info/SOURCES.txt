@@ -1,0 +1,7 @@
+setup.py
+cisoapi/__init__.py
+cisoapi/ciso_functions.py
+cisoapi.egg-info/PKG-INFO
+cisoapi.egg-info/SOURCES.txt
+cisoapi.egg-info/dependency_links.txt
+cisoapi.egg-info/top_level.txt
