@@ -17,7 +17,7 @@ class LocalVault(Vault):
     
 
     def get_secret_individual_account(self, path) -> str:
-        if self.is_encrypted:
+        if self.is_encrypted and path != "ercot-certificate":
             return decryptor.decrypt(
                 pydash.get(self.secrets, path),
                 self.encryption_key
