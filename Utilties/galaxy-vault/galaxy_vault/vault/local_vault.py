@@ -1,6 +1,6 @@
 from galaxy_vault.vault import Vault
 from galaxy_vault.model import ApiCredentials, ApxCredentials, DatabaseCredentials, IceCredentials
-from galaxy_vault.util import file_util
+from galaxy_vault.util import file_util, decryptor
 from pykeepass import PyKeePass
 import pydash
 import yaml
