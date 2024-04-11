@@ -16,19 +16,25 @@ class AzureVault(Vault):
 
 
     def get_secret(self, path):
-        return self.secret_client.get_secret(path).value
+        try:
+            return self.secret_client.get_secret(path).value
+        except Exception as e:
+            print("Error: Secret not found. Please check with GEMS IT Team to ensure the value is in the vault.")
 
 
     def get_secret_individual_account(self, path):
         '''Returns secret from galaxy_vault_secrets.azure.yaml under user path'''
         value = pydash.get(self.individual_account_secrets, path)
         if value:
-            return decryptor.decrypt(
-                value,
-                self.encryption_key
-            )
+            try:
+                return decryptor.decrypt(
+                    value,
+                    self.encryption_key
+                )
+            except Exception as e:
+                print("Decryption failed: Please ensure you have placed an encrypted value for \"path\" in the file \"homeDirectory\\galaxy_vault_secrets.azure.yaml\"")
         else:
-            print("Error: Secret not found. Please check with the GEMS IT Team to ensure the value is in the Vault")
+            print("Error: Secret not found. Please ensure that \"path\" is in the file \"homeDirectory\\galaxy_vault_secrets.azure.yaml\"")
             return None
 
     def get_certificate(self, path):
