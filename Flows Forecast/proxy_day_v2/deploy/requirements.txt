@@ -1,0 +1,10 @@
+# Add your package dependencies here
+snowflake==0.8.0
+snowflake-connector-python==3.10.0
+snowflake-snowpark-python==1.16.0
+snowflake._legacy==0.8.0
+snowflake.core==0.8.0
+pandas==1.4.2
+awswrangler==3.7.3
+file:./yesapi
+file:./galaxy_vault-0.3.4.tar.gz

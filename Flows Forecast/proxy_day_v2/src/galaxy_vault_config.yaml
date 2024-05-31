@@ -1,0 +1,33 @@
+source: aws
+source_options:
+  - azure
+  - local
+  - aws
+source_options_comments: Non-supported option defaults to local
+
+azure:
+  key_vault_name: KEY_VAULT_NAME
+  client_id: SERVICE_PRINCIPAL_CLIENT_ID
+  client_secret: SERVICE_PRINCIPAL_SECRET
+  tenant_id: SERVICE_PRINCIPAL_TENANT_ID
+  env: prod
+  env_options:
+    - dev
+    - prod
+  env_comment: Allows reading from galaxy_vault_secrets.azure.yaml or galaxy_vault_secrets.azure.dev.yaml
+
+local:
+  is_encrypted: False
+  keepass-database: KEEPASS_DATABASE
+  keepass-database-password: KEEPASS_DATABASE_PASSWORD
+  keepass-title: KEEPASS_ENCRYPTION_KEY_TITLE
+
+aws:
+  region: eu-west-1
+  service_name: secretsmanager
+  secret_id: cdh_gemsnabessdataloading_63447_secrets
+  profile: default
+  profile_options:
+    - default
+    - dev
+  profile_comment: Allows reading from galaxy_vault_secrets.aws.yaml or galaxy_vault_secrets.aws.dev.yaml

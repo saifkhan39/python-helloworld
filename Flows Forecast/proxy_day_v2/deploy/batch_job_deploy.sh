@@ -1,0 +1,1 @@
+daccli batch deploy_stack --config_file batch_job_config.json --project_uri uri:cart:337381:gemsbessus:gemsnabessdataloading_63447 --role_arn arn:aws:iam::046847230914:role/cdh_gemsnabessdataloading_63447 --stack_name proxy-day-v2-forecaster
