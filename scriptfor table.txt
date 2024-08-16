@@ -1,0 +1,133 @@
+/*  
+======================================================================================  
+Author		:   
+Create date :   
+Description :   
+Version		:   
+======================================================================================  
+Procedure   : USP_PUT_InsertCallRecords
+Argument	:   
+		    --------------------------------------------------------------------------  
+			Input Variable					DataType						Length   
+			--------------------------------------------------------------------------  
+							
+		    --------------------------------------------------------------------------  
+  
+ Return   :   
+			--------------------------------------------------------------------------  
+			 Output Variable				 DataType						Length   
+			--------------------------------------------------------------------------  
+     
+			--------------------------------------------------------------------------  
+      
+======================================================================================  
+								ModIFication Block  
+======================================================================================  
+S.No	Author						Change Desc.				Date			Ver  
+======================================================================================  
+	
+======================================================================================
+*/
+ALTER PROCEDURE [dbo].[USP_PUT_InsertCallRecords]
+(
+	@InXML			VARCHAR(100)
+)
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+	
+	/*
+	================
+	DECLARATION PART
+	================
+	*/
+	DECLARE  @dtCurrDate		DATETIME
+			,@varResponseCode	INT
+			,@varResponseMsg	VARCHAR(1000)
+			,@varTransName		VARCHAR(1000)
+
+	DECLARE @Temp TABLE(
+			HR INT, 
+			intervalDuration INT, 
+			intervalStartTime DateTime,
+			intervalEndTime DateTime,
+			MW Decimal(18,2),
+			resource VARCHAR(100),
+			location varchar(100),
+			product varchar(100),
+			scheduleType Varchar(100)
+		)
+								
+	/*
+	==================
+	INITALIZATION PART
+	==================
+	*/
+	SET @varResponseCode= 0
+	SET @varResponseMsg	= ''
+	SET @dtCurrDate		= GETDATE()
+	SET @varTransName	= ISNULL(OBJECT_NAME(@@PROCID),'TRANSACTION')
+
+	--INSERT INTO @Temp
+	--SELECT 
+ --   Employee.value('(ID)[1]', 'INT') AS EmployeeID,
+ --   Employee.value('(Name)[1]', 'VARCHAR(100)') AS EmployeeName,
+ --   Employee.value('(Department)[1]', 'VARCHAR(50)') AS Department
+	--FROM
+ --   @xmlData.nodes('/Employees/Employee') AS Employees(Employee);
+
+
+	/*
+	============
+	INSERT INPUT
+	============
+	*/
+	BEGIN TRY
+		-- Enable transaction    
+		BEGIN TRANSACTION @varTransName
+
+		--INSERT INTO TEST_Caiso VALUES(@TypeOfTime, @Description)
+
+		-- Commit/Rollback Transaction
+		IF @@TRANCOUNT > 0
+		BEGIN
+			IF @@ERROR = 0 		
+			begin
+				COMMIT TRANSACTION @varTransName  
+				SET @varResponseCode = 0  
+				--SET @varResponseMsg = 'Your Request has been submitted successfully'			
+		    END
+			ELSE 
+			BEGIN
+				ROLLBACK TRANSACTION @varTransName 
+				SET @varResponseCode = 1  
+				SET @varResponseMsg = 'Problem in Uploading the request'  
+		    END
+		END
+	END TRY
+	/*
+	===========
+	CATCH BLOCK
+	===========
+	*/
+	BEGIN CATCH 
+		-- Rollback Transaction  
+		IF @@TRANCOUNT > 0 
+			ROLLBACK TRANSACTION @varTransName 
+
+		SET @varResponseCode = 1  
+		SET @varResponseMsg = 'Problem in Uploading the request'  
+
+	END CATCH
+	
+	/*
+	========
+	TABLE-00 
+	========
+	*/
+	SELECT @varResponseCode AS responsecode, @varResponseMsg AS responsemsg
+	
+END
+
